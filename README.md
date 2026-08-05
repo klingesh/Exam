@@ -1,8 +1,17 @@
-# 📚 Placement Exam Study Notes — Accounting & Financial Management
+# 📚 Placement Exam Study Notes
 
 Welcome! These notes cover your entire placement syllabus, explained **from basic to advanced** in plain, easy-to-understand language. Every concept has definitions, formulas, and worked examples.
 
 > **How to use this:** Read a unit, cover the formula, try the example yourself, then check. Do one unit per sitting. Revise the "Quick Recap" at the bottom of each file the night before the exam.
+
+### 🗺️ What's in this repo
+
+| Section | Covers | Start here |
+|---|---|---|
+| 🧮 **Aptitude** (Part D) | ISBR Placement Test — Aptitude Syllabus, all 20 modules | 👉 **[aptitude/00-one-day-study-plan.md](aptitude/00-one-day-study-plan.md)** |
+| 📒 **Accounting** (Part A) | Book-keeping through cost accounting | [accounting/](accounting/) |
+| 💰 **Financial Management** (Part B) | Cost of capital through working capital | [financial-management/](financial-management/) |
+| ➕ **Additional Topics** (Part C) | Banking, markets, taxation, regulators | [additional-topics/](additional-topics/) |
 
 ---
 
@@ -33,6 +42,61 @@ Welcome! These notes cover your entire placement syllabus, explained **from basi
 
 ---
 
+### Part D — 🧮 APTITUDE (ISBR Placement Test)
+
+> ⏱️ **Short on time?** Start with the **[One-Day Study Plan](aptitude/00-one-day-study-plan.md)** — it tells you exactly what order to study in, hour by hour, and what to skip if you run short.
+>
+> Every file follows the same structure: **Concept → Formulas → Step-by-step worked examples → Shortcuts → Practice questions with answers → Quick Recap.**
+
+**🚀 Start / finish here**
+
+| | Topic | File |
+|---|-------|------|
+| 📅 | **One-Day Study Plan** — hour-by-hour schedule, priority order, exam tactics | [aptitude/00-one-day-study-plan.md](aptitude/00-one-day-study-plan.md) |
+| 📋 | **Master Formula Cheat Sheet** — every formula on one page (read this on exam morning) | [aptitude/20-formula-cheat-sheet.md](aptitude/20-formula-cheat-sheet.md) |
+| 📝 | **Mock Test** — 40 questions, timed, with full solutions and weak-area diagnosis | [aptitude/21-mock-test.md](aptitude/21-mock-test.md) |
+
+**🔴 Arithmetic Aptitude** *(~45% of the paper — highest priority)*
+
+| # | Topic | File |
+|---|-------|------|
+| 1 | Number System — divisibility, HCF/LCM, unit digit, factors, remainders | [aptitude/01-number-system.md](aptitude/01-number-system.md) |
+| 2 | **Percentage** ⭐ — the master topic that powers 5 others | [aptitude/02-percentage.md](aptitude/02-percentage.md) |
+| 3 | **Profit & Loss** ⭐ — CP/SP/MP, discount, false weights | [aptitude/03-profit-and-loss.md](aptitude/03-profit-and-loss.md) |
+| 4 | Simple & Compound Interest — including the CI–SI difference formulas | [aptitude/04-simple-and-compound-interest.md](aptitude/04-simple-and-compound-interest.md) |
+| 5 | Average — weighted average, average speed, replacement problems | [aptitude/05-average.md](aptitude/05-average.md) |
+| 6 | Problems on Ages — equation setting, ratio type | [aptitude/06-problems-on-ages.md](aptitude/06-problems-on-ages.md) |
+| 7 | **Time & Work** ⭐ + Pipes and Cisterns (LCM method) | [aptitude/07-time-and-work.md](aptitude/07-time-and-work.md) |
+| 8 | **Speed, Time & Distance** ⭐ — relative speed, late/early problems | [aptitude/08-speed-time-distance.md](aptitude/08-speed-time-distance.md) |
+| 9 | Problems on Trains — poles, platforms, two trains | [aptitude/09-problems-on-trains.md](aptitude/09-problems-on-trains.md) |
+| 10 | Boats & Streams — the easiest topic in the syllabus | [aptitude/10-boats-and-streams.md](aptitude/10-boats-and-streams.md) |
+| 11 | Probability — coins, dice, cards, balls | [aptitude/11-probability.md](aptitude/11-probability.md) |
+
+**🟡 Data Interpretation** *(~10%)*
+
+| # | Topic | File |
+|---|-------|------|
+| 12 | Data Interpretation — tables, pie charts, bar/line graphs | [aptitude/12-data-interpretation.md](aptitude/12-data-interpretation.md) |
+
+**🟢 Logical Reasoning** *(~25% — the easiest marks in the paper)*
+
+| # | Topic | File |
+|---|-------|------|
+| 13 | Direction Sense — compass, turns, Pythagoras, shadows | [aptitude/13-direction-sense.md](aptitude/13-direction-sense.md) |
+| 14 | Alphabet Series & Coding-Decoding — EJOTY, the 27 rule | [aptitude/14-alphabet-series.md](aptitude/14-alphabet-series.md) |
+| 15 | Blood Relations — family tree method 🟢 **best return on time** | [aptitude/15-blood-relations.md](aptitude/15-blood-relations.md) |
+| 16 | Analogy — 20 relationship types, number & letter analogies | [aptitude/16-analogy.md](aptitude/16-analogy.md) |
+| 17 | Seating Arrangement — linear & circular puzzles | [aptitude/17-seating-arrangement.md](aptitude/17-seating-arrangement.md) |
+
+**🟢 English** *(~20%)*
+
+| # | Topic | File |
+|---|-------|------|
+| 18 | English Grammar — subject-verb agreement, tenses, articles, prepositions, voice, error spotting, vocabulary | [aptitude/18-english-grammar.md](aptitude/18-english-grammar.md) |
+| 19 | Reading Comprehension — technique, the 5 question types, trap options | [aptitude/19-reading-comprehension.md](aptitude/19-reading-comprehension.md) |
+
+---
+
 ## 🎯 Exam Strategy (quick tips)
 
 1. **Formulas win marks.** Memorize the formula list at the end of each file.
@@ -40,5 +104,13 @@ Welcome! These notes cover your entire placement syllabus, explained **from basi
 3. **Definitions + example.** For theory questions, give a crisp definition, then one line of example/importance.
 4. **Cost & FM overlap.** Marginal costing, break-even, and capital budgeting are the highest-scoring numerical areas — practice them most.
 5. **Additional topics** are usually short-answer/MCQ — focus on definitions and key regulators (SEBI, RBI, ICAI, IRDAI).
+
+### For the aptitude paper specifically
+
+6. **Do reasoning and English FIRST.** They're ~45% of the paper, need the least study, and banking easy marks early kills exam anxiety.
+7. **90-second rule.** Never spend longer than that on one question. Mark it and move on.
+8. **No negative marking? Attempt everything.** Never leave a blank.
+9. **Use the options.** Back-solving is often faster than solving forward — especially for Ages, Number System and Work problems.
+10. **Always draw** for Direction Sense, Blood Relations and Seating Arrangement. Never solve those in your head.
 
 Good luck! 🚀
