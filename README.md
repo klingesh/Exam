@@ -9,6 +9,7 @@ Welcome! These notes cover your entire placement syllabus, explained **from basi
 | Section | Covers | Start here |
 |---|---|---|
 | 🧮 **Aptitude** (Part D) | ISBR Placement Test — Aptitude Syllabus, all 20 modules | 👉 **[aptitude/00-one-day-study-plan.md](aptitude/00-one-day-study-plan.md)** |
+| 🎯 **Placement Test — Specializations** (Part E) | Syllabus outlines for all 5 streams: Marketing, HR, Finance, Logistics & SCM, Systems | 👉 **[placement-test/README.md](placement-test/README.md)** |
 | 📒 **Accounting** (Part A) | Book-keeping through cost accounting | [accounting/](accounting/) |
 | 💰 **Financial Management** (Part B) | Cost of capital through working capital | [financial-management/](financial-management/) |
 | ➕ **Additional Topics** (Part C) | Banking, markets, taxation, regulators | [additional-topics/](additional-topics/) |
@@ -94,6 +95,27 @@ Welcome! These notes cover your entire placement syllabus, explained **from basi
 |---|-------|------|
 | 18 | English Grammar — subject-verb agreement, tenses, articles, prepositions, voice, error spotting, vocabulary | [aptitude/18-english-grammar.md](aptitude/18-english-grammar.md) |
 | 19 | Reading Comprehension — technique, the 5 question types, trap options | [aptitude/19-reading-comprehension.md](aptitude/19-reading-comprehension.md) |
+
+---
+
+### Part E — 🎯 PLACEMENT TEST: SPECIALIZATION SYLLABUS OUTLINES
+
+Outlines for `PLACEMENT TEST - SYLLABUS (1).pdf`. That PDF bundles **five different specialization syllabuses** into one document — **you only need your own stream.**
+
+| Stream | Size | Outline |
+|--------|------|---------|
+| 📈 **Marketing** | 9 topics | [placement-test/01-marketing-outline.md](placement-test/01-marketing-outline.md) |
+| 👥 **HR** | 14 topics | [placement-test/02-hr-outline.md](placement-test/02-hr-outline.md) |
+| 💰 **Finance** | Accounting I–V + FM I–V + additional | [placement-test/03-finance-outline.md](placement-test/03-finance-outline.md) — ✅ full notes already in Parts A–C above |
+| 🚚 **Logistics & SCM** | Units 1–5 + 5 additional | [placement-test/04-logistics-scm-outline.md](placement-test/04-logistics-scm-outline.md) |
+| 💻 **Systems** | 6 topics | [placement-test/05-systems-outline.md](placement-test/05-systems-outline.md) |
+
+| | |
+|---|---|
+| 🗂️ **Index & how to use** | [placement-test/README.md](placement-test/README.md) |
+| 📄 **Syllabus text with tick-boxes** | [placement-test/00-syllabus-verbatim.md](placement-test/00-syllabus-verbatim.md) |
+
+> 📌 These are **outlines**, not full notes — topic structure plus the important points and key terms to focus on, so you can see the scope and decide where to go deep.
 
 ---
 
