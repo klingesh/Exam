@@ -4,9 +4,11 @@
 
 > ## ✅ FULL IN-DEPTH NOTES NOW EXIST FOR EVERY TOPIC
 >
-> This page is the **map**. The detailed notes are in the **[`hr/`](../hr/)** folder — one file per syllabus topic, at the same depth as the Finance notes, with definitions, frameworks, formulas, worked examples, comparison tables and a Quick Recap.
+> This page is the **short outline**. The detailed notes are in the **[`hr/`](../hr/)** folder — one file per syllabus topic, at the same depth as the Finance notes, with definitions, frameworks, formulas, worked examples, comparison tables and a Quick Recap.
 >
-> **Start here → [hr/01-introduction-to-hrm.md](../hr/01-introduction-to-hrm.md)** (each file links to the next)
+> 📘 **[Subha Notes — syllabus-to-notes map](../hr/subha-notes.md)** — maps every syllabus sub-topic to the exact file and section, with a study plan and answering technique.
+>
+> 👉 Or read straight through from **[hr/01-introduction-to-hrm.md](../hr/01-introduction-to-hrm.md)** (each file links to the next)
 
 ---
 
