@@ -25,7 +25,7 @@ Unlike machines or money, people are the only resource that:
 
 ---
 
-## 2. Scope of HRM
+## 2. Definition and Scope of HRM
 
 The scope is usually shown as **three aspects**:
 

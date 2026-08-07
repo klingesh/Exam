@@ -115,7 +115,7 @@ Selection is a **series of hurdles**; a candidate must clear each to reach the n
 1.  Receipt of applications
 2.  Preliminary screening        ← reject obvious misfits early (cheapest stage)
 3.  Application blank / form
-4.  Selection tests              ← aptitude, personality, skill
+4.  Selection tests / assessments ← aptitude, personality, skill, assessment centre
 5.  Selection interview(s)
 6.  Reference / background check (BGV)
 7.  Medical examination
