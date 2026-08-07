@@ -105,7 +105,7 @@ Outlines for `PLACEMENT TEST - SYLLABUS (1).pdf`. That PDF bundles **five differ
 | Stream | Size | Outline |
 |--------|------|---------|
 | 📈 **Marketing** | 9 topics | [placement-test/01-marketing-outline.md](placement-test/01-marketing-outline.md) |
-| 👥 **HR** | 14 topics | [placement-test/02-hr-outline.md](placement-test/02-hr-outline.md) |
+| 👥 **HR** | 14 topics | [placement-test/02-hr-outline.md](placement-test/02-hr-outline.md) — ✅ **full notes in [hr/](hr/)**, see Part F below |
 | 💰 **Finance** | Accounting I–V + FM I–V + additional | [placement-test/03-finance-outline.md](placement-test/03-finance-outline.md) — ✅ full notes already in Parts A–C above |
 | 🚚 **Logistics & SCM** | Units 1–5 + 5 additional | [placement-test/04-logistics-scm-outline.md](placement-test/04-logistics-scm-outline.md) |
 | 💻 **Systems** | 6 topics | [placement-test/05-systems-outline.md](placement-test/05-systems-outline.md) |
@@ -116,6 +116,55 @@ Outlines for `PLACEMENT TEST - SYLLABUS (1).pdf`. That PDF bundles **five differ
 | 📄 **Syllabus text with tick-boxes** | [placement-test/00-syllabus-verbatim.md](placement-test/00-syllabus-verbatim.md) |
 
 > 📌 These are **outlines**, not full notes — topic structure plus the important points and key terms to focus on, so you can see the scope and decide where to go deep.
+
+---
+
+### Part F — 👥 HR (FULL IN-DEPTH NOTES)
+
+Complete notes for all **14 topics** of the HR placement syllabus, at the same depth as the Accounting and Financial Management notes in Parts A–B.
+
+> 👉 **Start here: [hr/01-introduction-to-hrm.md](hr/01-introduction-to-hrm.md)** — each file links to the next.
+
+**Foundations**
+
+| # | Topic | File |
+|---|-------|------|
+| 1 | Definition & scope of HRM, evolution (PM → HRM → SHRM), objectives, ethics, Ulrich's roles, stakeholders | [hr/01-introduction-to-hrm.md](hr/01-introduction-to-hrm.md) |
+| 2 | Abbreviation glossary, key terminology, **HR metrics with formulas**, legal terms | [hr/02-abbreviations-terms-and-metrics.md](hr/02-abbreviations-terms-and-metrics.md) |
+| 3 | Strategic HR planning, workforce forecasting, job analysis (JD/JS), job design, HR roles, three responsibility levels | [hr/03-hrm-planning-roles-and-responsibilities.md](hr/03-hrm-planning-roles-and-responsibilities.md) |
+| 4 | Org structures, tall vs flat, **span of control**, delegation, communication channels | [hr/04-hierarchy-and-org-structure.md](hr/04-hierarchy-and-org-structure.md) |
+
+**The HR cycle**
+
+| # | Topic | File |
+|---|-------|------|
+| 5 | Recruitment sources, selection process, interview types, onboarding, TNA, training methods, **Kirkpatrick evaluation**, career planning | [hr/05-recruitment-selection-and-training.md](hr/05-recruitment-selection-and-training.md) |
+| 6 | Pay strategies, **job evaluation**, salary structures & compa-ratio, **CTC breakdown**, incentive plans, benefits, pay equity | [hr/06-compensation-and-benefits.md](hr/06-compensation-and-benefits.md) |
+| 7 | Appraisal methods (**MBO, 360°, BARS**), SMART goals, KRA vs KPI, appraisal errors, feedback & coaching, PIP, calibration | [hr/07-performance-management.md](hr/07-performance-management.md) |
+
+**People & conflict**
+
+| # | Topic | File |
+|---|-------|------|
+| 8 | Engagement, **motivation theories** (Maslow, Herzberg, Vroom, Adams), morale, recognition, D&I, workplace culture | [hr/08-employee-relations.md](hr/08-employee-relations.md) |
+| 9 | Grievance procedures, **natural justice**, Model Grievance Procedure, investigation, documentation, prevention | [hr/09-grievance-handling.md](hr/09-grievance-handling.md) |
+| 10 | Dispute types, **ADR (mediation vs arbitration)**, Thomas–Kilmann conflict styles, negotiation (BATNA/ZOPA), ID Act machinery | [hr/10-dispute-resolution.md](hr/10-dispute-resolution.md) |
+
+**Compliance**
+
+| # | Topic | File |
+|---|-------|------|
+| 11 | US statutes (FLSA, ADA, FMLA, OSHA, Title VII) **+ Indian Acts and the four Labour Codes**, EEO, POSH, unions, contracts, data privacy | [hr/11-labour-law-and-legal-requirements.md](hr/11-labour-law-and-legal-requirements.md) |
+| 12 | Policy vs procedure vs rule, policy types, development, communication, **progressive discipline**, review & version control | [hr/12-hr-policies.md](hr/12-hr-policies.md) |
+
+**Where HR is heading**
+
+| # | Topic | File |
+|---|-------|------|
+| 13 | AI across the HR lifecycle, **algorithmic bias**, AI ethics, AI regulation, HRIS integration | [hr/13-ai-in-hr.md](hr/13-ai-in-hr.md) |
+| 14 | **Personnel Management vs HRM vs SHRM**, transactional vs transformational, centralised vs decentralised, people analytics | [hr/14-traditional-vs-modern-hr.md](hr/14-traditional-vs-modern-hr.md) |
+
+> 💡 **For last-minute revision:** read only the **✅ Quick Recap** at the end of each of the 14 files. Together they form a complete condensed summary of the HR syllabus.
 
 ---
 

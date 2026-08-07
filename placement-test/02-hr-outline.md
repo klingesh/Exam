@@ -2,28 +2,32 @@
 
 **14 topics.** The largest section in the PDF by topic count, but most topics are short.
 
-> 📌 Outline only — the structure and the points worth noting. Expand the ⭐ items into proper notes.
+> ## ✅ FULL IN-DEPTH NOTES NOW EXIST FOR EVERY TOPIC
+>
+> This page is the **map**. The detailed notes are in the **[`hr/`](../hr/)** folder — one file per syllabus topic, at the same depth as the Finance notes, with definitions, frameworks, formulas, worked examples, comparison tables and a Quick Recap.
+>
+> **Start here → [hr/01-introduction-to-hrm.md](../hr/01-introduction-to-hrm.md)** (each file links to the next)
 
 ---
 
 ## WHAT'S IN THIS SECTION
 
-| # | Topic | Weight |
-|---|---|---|
-| 1 | Basic introduction to HRM | ⭐⭐ |
-| 2 | HR abbreviations & general terms | ⭐⭐⭐ |
-| 3 | HRM planning, roles & responsibilities | ⭐⭐⭐ |
-| 4 | Hierarchy & organizational structures | ⭐⭐ |
-| 5 | Recruitment, selection & training | ⭐⭐⭐ |
-| 6 | Compensation & benefits | ⭐⭐⭐ |
-| 7 | Performance management | ⭐⭐⭐ |
-| 8 | Employee relations | ⭐⭐ |
-| 9 | Grievance handling | ⭐⭐ |
-| 10 | Dispute resolution | ⭐⭐ |
-| 11 | Legal requirements & labour law | ⭐⭐ |
-| 12 | HR policies | ⭐ |
-| 13 | AI in HR functions | ⭐⭐ |
-| 14 | Traditional vs modern HR models | ⭐⭐⭐ |
+| # | Topic | Weight | 📖 Full notes |
+|---|---|---|---|
+| 1 | Basic introduction to HRM | ⭐⭐ | [01-introduction-to-hrm.md](../hr/01-introduction-to-hrm.md) |
+| 2 | HR abbreviations & general terms | ⭐⭐⭐ | [02-abbreviations-terms-and-metrics.md](../hr/02-abbreviations-terms-and-metrics.md) |
+| 3 | HRM planning, roles & responsibilities | ⭐⭐⭐ | [03-hrm-planning-roles-and-responsibilities.md](../hr/03-hrm-planning-roles-and-responsibilities.md) |
+| 4 | Hierarchy & organizational structures | ⭐⭐ | [04-hierarchy-and-org-structure.md](../hr/04-hierarchy-and-org-structure.md) |
+| 5 | Recruitment, selection & training | ⭐⭐⭐ | [05-recruitment-selection-and-training.md](../hr/05-recruitment-selection-and-training.md) |
+| 6 | Compensation & benefits | ⭐⭐⭐ | [06-compensation-and-benefits.md](../hr/06-compensation-and-benefits.md) |
+| 7 | Performance management | ⭐⭐⭐ | [07-performance-management.md](../hr/07-performance-management.md) |
+| 8 | Employee relations | ⭐⭐ | [08-employee-relations.md](../hr/08-employee-relations.md) |
+| 9 | Grievance handling | ⭐⭐ | [09-grievance-handling.md](../hr/09-grievance-handling.md) |
+| 10 | Dispute resolution | ⭐⭐ | [10-dispute-resolution.md](../hr/10-dispute-resolution.md) |
+| 11 | Legal requirements & labour law | ⭐⭐ | [11-labour-law-and-legal-requirements.md](../hr/11-labour-law-and-legal-requirements.md) |
+| 12 | HR policies | ⭐ | [12-hr-policies.md](../hr/12-hr-policies.md) |
+| 13 | AI in HR functions | ⭐⭐ | [13-ai-in-hr.md](../hr/13-ai-in-hr.md) |
+| 14 | Traditional vs modern HR models | ⭐⭐⭐ | [14-traditional-vs-modern-hr.md](../hr/14-traditional-vs-modern-hr.md) |
 
 **Natural grouping:** *Foundations* (1–4) → *The HR cycle* (5–7) → *People & conflict* (8–10) → *Compliance* (11–12) → *Where HR is heading* (13–14).
 
