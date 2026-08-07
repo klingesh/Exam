@@ -123,7 +123,9 @@ Outlines for `PLACEMENT TEST - SYLLABUS (1).pdf`. That PDF bundles **five differ
 
 Complete notes for all **14 topics** of the HR placement syllabus, at the same depth as the Accounting and Financial Management notes in Parts A–B.
 
-> 👉 **Start here: [hr/01-introduction-to-hrm.md](hr/01-introduction-to-hrm.md)** — each file links to the next.
+> 📘 **[Subha Notes — syllabus-to-notes map](hr/subha-notes.md)** — every syllabus topic and sub-topic mapped to the exact file and section, plus a study plan and answering technique. **Best place to start.**
+>
+> 👉 Or read straight through from **[hr/01-introduction-to-hrm.md](hr/01-introduction-to-hrm.md)** — each file links to the next.
 
 **Foundations**
 
